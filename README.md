@@ -239,4 +239,4 @@ This repository serves as the official landing page for VUPlayer. The software i
 **Get the most recent version of VUPlayer today!**
 
 ---
-**Last updated:** 2026-09-11 12:32:23 UTC
+**Last updated:** 2026-09-11 16:51:47 UTC
